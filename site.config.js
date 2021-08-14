@@ -9,7 +9,7 @@ module.exports = {
   // basic site info (required)
   name: '職女Jennifer',
   domain: 'https://jennifer-b.notion.site/Jennifer-c27d5cb77c2f4aa8ae6eb5a5d09de701',
-  author: 'Jennifer',
+  author: '職女Jennifer',
 
   // open graph metadata (optional)
   description: '在Podcast閒聊生活，在文字裡討論文學。',
